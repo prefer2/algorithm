@@ -8,6 +8,7 @@
 - [Baekjoon](https://www.acmicpc.net/)
 
 ## Javascript Cheet Sheet
+- [Math & Array](https://github.com/prefer2/algorithm/blob/main/cheetsheet/math.md)
 - [DFS](https://github.com/prefer2/algorithm/blob/main/cheetsheet/DFS.md)
 - [BFS](https://github.com/prefer2/algorithm/blob/main/cheetsheet/BFS.md)
 - [MST](https://github.com/prefer2/algorithm/blob/main/cheetsheet/MST.md)
