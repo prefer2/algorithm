@@ -3,6 +3,7 @@ const solution = (sequence) => {
         if(i%2===0) return s;
         else return s * -1;
     })
+    
      const two = sequence.map((s, i) => {
         if(i%2===0) return s * -1;
         else return s;
